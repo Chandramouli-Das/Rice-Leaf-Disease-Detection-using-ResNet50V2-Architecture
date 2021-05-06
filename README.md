@@ -1,0 +1,1 @@
+# Rice-Leaf-Disease-Detection-using-ResNet50V2-Architecture
